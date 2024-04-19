@@ -1,2 +1,1 @@
-este es un nuevo archivo
-otro mensaje
+se modifica los cambios actuales
